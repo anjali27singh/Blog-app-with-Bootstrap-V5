@@ -6,8 +6,6 @@ In Front-End
 -CSS
 -BOOTSTRAP
 -JavaScript
-Features:
-1.Separate user and Admin Space.
-2.Admin moderation of Blog like approval,rejection and review
-3.Blog image upload facility.
+
+
 
