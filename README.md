@@ -1,2 +1,13 @@
 # Blog-app-with-Bootstrap-V5
-you will be working on a project Website App which is a simple Blog App.A Blog is type of website that is Updated regularly with new Content.The Blog app allows you to post,edit,save and view your Blog posts.The Website will consist of HTML,CSS and BOOTSTRAP code.the HTML , CSS and BOOTSTRAP of your code decides how yourWebsite will,look 
+you will be working on a project Website App which is a simple Blog App.A Blog is type of website that is Updated regularly with new Content.The Blog app allows you to post,edit,save and view your Blog posts.The Website will consist of HTML,CSS and BOOTSTRAP code.the HTML , CSS and BOOTSTRAP of your code decides how yourWebsite will look .
+Technogies used:
+In Front-End
+-HTML
+-CSS
+-BOOTSTRAP
+-JavaScript
+Features:
+1.Separate user and Admin Space.
+2.Admin moderation of Blog like approval,rejection and review
+3.Blog image upload facility.
+
